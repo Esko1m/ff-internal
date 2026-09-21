@@ -1,4 +1,4 @@
-.theos/
+﻿.theos/
 debs/
 packages/
 *.deb
@@ -8,3 +8,6 @@ packages/
 *.log
 .DS_Store
 *:Zone.Identifier
+script.json
+dump.cs
+dump.cs.bak

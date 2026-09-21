@@ -1,0 +1,10 @@
+.theos/
+debs/
+packages/
+*.deb
+*.dylib
+*.so
+*.zip
+*.log
+.DS_Store
+*:Zone.Identifier
